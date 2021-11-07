@@ -1,0 +1,12 @@
+.Cur_id {
+  width: 60px;
+}
+
+.Cur_setting {
+  margin-top: 5px;
+  display: flex;
+}
+
+.Cur_return {
+  margin-bottom: 10px;
+}
